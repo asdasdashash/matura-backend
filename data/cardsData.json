@@ -1,0 +1,68 @@
+{
+  "cards": [
+    { "id": 1, "cardType": "2", "cardSymbol": "hearts", "cardValue": 2, "imagePath": "/Karte/Hearts/hearts-02.svg", "goldenImagePath": "/Karte/Hearts zlate/Hearts zlate-54.svg" },
+    { "id": 2, "cardType": "2", "cardSymbol": "diamonds", "cardValue": 2, "imagePath": "/Karte/Diamonds/diamonds-15.svg", "goldenImagePath": "/Karte/Diamonds zlate/diamonds zlate-67.svg" },
+    { "id": 3, "cardType": "2", "cardSymbol": "clubs", "cardValue": 2, "imagePath": "/Karte/Clubs/clubs-28.svg", "goldenImagePath": "/Karte/Clubs zlate/clubs zlate-80.svg" },
+    { "id": 4, "cardType": "2", "cardSymbol": "spades", "cardValue": 2, "imagePath": "/Karte/Spades/spades-41.svg", "goldenImagePath": "/Karte/Spades zlate/spades zlate-93.svg" },
+
+    { "id": 5, "cardType": "3", "cardSymbol": "hearts", "cardValue": 3, "imagePath": "/Karte/Hearts/hearts-03.svg", "goldenImagePath": "/Karte/Hearts zlate/Hearts zlate-55.svg" },
+    { "id": 6, "cardType": "3", "cardSymbol": "diamonds", "cardValue": 3, "imagePath": "/Karte/Diamonds/diamonds-16.svg", "goldenImagePath": "/Karte/Diamonds zlate/diamonds zlate-68.svg" },
+    { "id": 7, "cardType": "3", "cardSymbol": "clubs", "cardValue": 3, "imagePath": "/Karte/Clubs/clubs-29.svg", "goldenImagePath": "/Karte/Clubs zlate/clubs zlate-81.svg" },
+    { "id": 8, "cardType": "3", "cardSymbol": "spades", "cardValue": 3, "imagePath": "/Karte/Spades/spades-42.svg", "goldenImagePath": "/Karte/Spades zlate/spades zlate-94.svg" },
+
+    { "id": 9, "cardType": "4", "cardSymbol": "hearts", "cardValue": 4, "imagePath": "/Karte/Hearts/hearts-04.svg", "goldenImagePath": "/Karte/Hearts zlate/Hearts zlate-56.svg" },
+    { "id": 10, "cardType": "4", "cardSymbol": "diamonds", "cardValue": 4, "imagePath": "/Karte/Diamonds/diamonds-17.svg", "goldenImagePath": "/Karte/Diamonds zlate/diamonds zlate-69.svg" },
+    { "id": 11, "cardType": "4", "cardSymbol": "clubs", "cardValue": 4, "imagePath": "/Karte/Clubs/clubs-30.svg", "goldenImagePath": "/Karte/Clubs zlate/clubs zlate-82.svg" },
+    { "id": 12, "cardType": "4", "cardSymbol": "spades", "cardValue": 4, "imagePath": "/Karte/Spades/spades-43.svg", "goldenImagePath": "/Karte/Spades zlate/spades zlate-95.svg" },
+
+    { "id": 13, "cardType": "5", "cardSymbol": "hearts", "cardValue": 5, "imagePath": "/Karte/Hearts/hearts-05.svg", "goldenImagePath": "/Karte/Hearts zlate/Hearts zlate-57.svg" },
+    { "id": 14, "cardType": "5", "cardSymbol": "diamonds", "cardValue": 5, "imagePath": "/Karte/Diamonds/diamonds-18.svg", "goldenImagePath": "/Karte/Diamonds zlate/diamonds zlate-70.svg" },
+    { "id": 15, "cardType": "5", "cardSymbol": "clubs", "cardValue": 5, "imagePath": "/Karte/Clubs/clubs-31.svg", "goldenImagePath": "/Karte/Clubs zlate/clubs zlate-83.svg" },
+    { "id": 16, "cardType": "5", "cardSymbol": "spades", "cardValue": 5, "imagePath": "/Karte/Spades/spades-44.svg", "goldenImagePath": "/Karte/Spades zlate/spades zlate-96.svg" },
+
+    { "id": 17, "cardType": "6", "cardSymbol": "hearts", "cardValue": 6, "imagePath": "/Karte/Hearts/hearts-06.svg", "goldenImagePath": "/Karte/Hearts zlate/Hearts zlate-58.svg" },
+    { "id": 18, "cardType": "6", "cardSymbol": "diamonds", "cardValue": 6, "imagePath": "/Karte/Diamonds/diamonds-19.svg", "goldenImagePath": "/Karte/Diamonds zlate/diamonds zlate-71.svg" },
+    { "id": 19, "cardType": "6", "cardSymbol": "clubs", "cardValue": 6, "imagePath": "/Karte/Clubs/clubs-32.svg", "goldenImagePath": "/Karte/Clubs zlate/clubs zlate-84.svg" },
+    { "id": 20, "cardType": "6", "cardSymbol": "spades", "cardValue": 6, "imagePath": "/Karte/Spades/spades-45.svg", "goldenImagePath": "/Karte/Spades zlate/spades zlate-97.svg" },
+
+    { "id": 21, "cardType": "7", "cardSymbol": "hearts", "cardValue": 7, "imagePath": "/Karte/Hearts/hearts-07.svg", "goldenImagePath": "/Karte/Hearts zlate/Hearts zlate-59.svg" },
+    { "id": 22, "cardType": "7", "cardSymbol": "diamonds", "cardValue": 7, "imagePath": "/Karte/Diamonds/diamonds-20.svg", "goldenImagePath": "/Karte/Diamonds zlate/diamonds zlate-72.svg" },
+    { "id": 23, "cardType": "7", "cardSymbol": "clubs", "cardValue": 7, "imagePath": "/Karte/Clubs/clubs-33.svg", "goldenImagePath": "/Karte/Clubs zlate/clubs zlate-85.svg" },
+    { "id": 24, "cardType": "7", "cardSymbol": "spades", "cardValue": 7, "imagePath": "/Karte/Spades/spades-46.svg", "goldenImagePath": "/Karte/Spades zlate/spades zlate-98.svg" },
+
+    { "id": 25, "cardType": "8", "cardSymbol": "hearts", "cardValue": 8, "imagePath": "/Karte/Hearts/hearts-08.svg", "goldenImagePath": "/Karte/Hearts zlate/Hearts zlate-60.svg" },
+    { "id": 26, "cardType": "8", "cardSymbol": "diamonds", "cardValue": 8, "imagePath": "/Karte/Diamonds/diamonds-21.svg", "goldenImagePath": "/Karte/Diamonds zlate/diamonds zlate-73.svg" },
+    { "id": 27, "cardType": "8", "cardSymbol": "clubs", "cardValue": 8, "imagePath": "/Karte/Clubs/clubs-34.svg", "goldenImagePath": "/Karte/Clubs zlate/clubs zlate-86.svg" },
+    { "id": 28, "cardType": "8", "cardSymbol": "spades", "cardValue": 8, "imagePath": "/Karte/Spades/spades-47.svg", "goldenImagePath": "/Karte/Spades zlate/spades zlate-99.svg" },
+
+    { "id": 29, "cardType": "9", "cardSymbol": "hearts", "cardValue": 9, "imagePath": "/Karte/Hearts/hearts-09.svg", "goldenImagePath": "/Karte/Hearts zlate/Hearts zlate-61.svg" },
+    { "id": 30, "cardType": "9", "cardSymbol": "diamonds", "cardValue": 9, "imagePath": "/Karte/Diamonds/diamonds-22.svg", "goldenImagePath": "/Karte/Diamonds zlate/diamonds zlate-74.svg" },
+    { "id": 31, "cardType": "9", "cardSymbol": "clubs", "cardValue": 9, "imagePath": "/Karte/Clubs/clubs-35.svg", "goldenImagePath": "/Karte/Clubs zlate/clubs zlate-87.svg" },
+    { "id": 32, "cardType": "9", "cardSymbol": "spades", "cardValue": 9, "imagePath": "/Karte/Spades/spades-48.svg", "goldenImagePath": "/Karte/Spades zlate/spades zlate-100.svg" },
+
+    { "id": 33, "cardType": "10", "cardSymbol": "hearts", "cardValue": 10, "imagePath": "/Karte/Hearts/hearts-10.svg", "goldenImagePath": "/Karte/Hearts zlate/Hearts zlate-62.svg" },
+    { "id": 34, "cardType": "10", "cardSymbol": "diamonds", "cardValue": 10, "imagePath": "/Karte/Diamonds/diamonds-23.svg", "goldenImagePath": "/Karte/Diamonds zlate/diamonds zlate-75.svg" },
+    { "id": 35, "cardType": "10", "cardSymbol": "clubs", "cardValue": 10, "imagePath": "/Karte/Clubs/clubs-36.svg", "goldenImagePath": "/Karte/Clubs zlate/clubs zlate-88.svg" },
+    { "id": 36, "cardType": "10", "cardSymbol": "spades", "cardValue": 10, "imagePath": "/Karte/Spades/spades-49.svg", "goldenImagePath": "/Karte/Spades zlate/spades zlate-101.svg" },
+
+    { "id": 37, "cardType": "J", "cardSymbol": "hearts", "cardValue": 10, "imagePath": "/Karte/Hearts/hearts-11.svg", "goldenImagePath": "/Karte/Hearts zlate/Hearts zlate-63.svg" },
+    { "id": 38, "cardType": "J", "cardSymbol": "diamonds", "cardValue": 10, "imagePath": "/Karte/Diamonds/diamonds-24.svg", "goldenImagePath": "/Karte/Diamonds zlate/diamonds zlate-76.svg" },
+    { "id": 39, "cardType": "J", "cardSymbol": "clubs", "cardValue": 10, "imagePath": "/Karte/Clubs/clubs-37.svg", "goldenImagePath": "/Karte/Clubs zlate/clubs zlate-89.svg" },
+    { "id": 40, "cardType": "J", "cardSymbol": "spades", "cardValue": 10, "imagePath": "/Karte/Spades/spades-50.svg", "goldenImagePath": "/Karte/Spades zlate/spades zlate-102.svg" },
+
+    { "id": 41, "cardType": "Q", "cardSymbol": "hearts", "cardValue": 10, "imagePath": "/Karte/Hearts/hearts-12.svg", "goldenImagePath": "/Karte/Hearts zlate/Hearts zlate-64.svg" },
+    { "id": 42, "cardType": "Q", "cardSymbol": "diamonds", "cardValue": 10, "imagePath": "/Karte/Diamonds/diamonds-25.svg", "goldenImagePath": "/Karte/Diamonds zlate/diamonds zlate-77.svg" },
+    { "id": 43, "cardType": "Q", "cardSymbol": "clubs", "cardValue": 10, "imagePath": "/Karte/Clubs/clubs-38.svg", "goldenImagePath": "/Karte/Clubs zlate/clubs zlate-90.svg" },
+    { "id": 44, "cardType": "Q", "cardSymbol": "spades", "cardValue": 10, "imagePath": "/Karte/Spades/spades-51.svg", "goldenImagePath": "/Karte/Spades zlate/spades zlate-103.svg" },
+
+    { "id": 45, "cardType": "K", "cardSymbol": "hearts", "cardValue": 10, "imagePath": "/Karte/Hearts/hearts-13.svg", "goldenImagePath": "/Karte/Hearts zlate/Hearts zlate-65.svg" },
+    { "id": 46, "cardType": "K", "cardSymbol": "diamonds", "cardValue": 10, "imagePath": "/Karte/Diamonds/diamonds-26.svg", "goldenImagePath": "/Karte/Diamonds zlate/diamonds zlate-78.svg" },
+    { "id": 47, "cardType": "K", "cardSymbol": "clubs", "cardValue": 10, "imagePath": "/Karte/Clubs/clubs-39.svg", "goldenImagePath": "/Karte/Clubs zlate/clubs zlate-91.svg" },
+    { "id": 48, "cardType": "K", "cardSymbol": "spades", "cardValue": 10, "imagePath": "/Karte/Spades/spades-52.svg", "goldenImagePath": "/Karte/Spades zlate/spades zlate-104.svg" },
+
+    { "id": 49, "cardType": "A", "cardSymbol": "hearts", "cardValue": 11, "imagePath": "/Karte/Hearts/hearts-01.svg", "goldenImagePath": "/Karte/Hearts zlate/hearts zlate-53.svg" },
+    { "id": 50, "cardType": "A", "cardSymbol": "diamonds", "cardValue": 11, "imagePath": "/Karte/Diamonds/diamonds-14.svg", "goldenImagePath": "/Karte/Diamonds zlate/diamonds zlate-66.svg" },
+    { "id": 51, "cardType": "A", "cardSymbol": "clubs", "cardValue": 11, "imagePath": "/Karte/Clubs/clubs-27.svg", "goldenImagePath": "/Karte/Clubs zlate/clubs zlate-79.svg" },
+    { "id": 52, "cardType": "A", "cardSymbol": "spades", "cardValue": 11, "imagePath": "/Karte/Spades/spades-40.svg", "goldenImagePath": "/Karte/Spades zlate/spades zlate-92.svg" }
+  ]
+}
