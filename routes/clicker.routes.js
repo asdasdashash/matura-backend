@@ -64,7 +64,7 @@ router.post('/click', async (req, res) => {
     session.lastClickTime = now;
     
     // Each click gives 1 coin
-    const earnedAmount = 1;
+    const earnedAmount = 50;
     
     res.json({
       success: true,
@@ -87,7 +87,7 @@ router.post('/cashout', async (req, res) => {
     }
     
     const session = clickSessions[sessionId];
-    const totalEarned = session.clicks; // 1 coin per click
+    const totalEarned = session.clicks*50; // 1 coin per click
     
     // Add to user balance
     const user = await getUserById(session.userId);
