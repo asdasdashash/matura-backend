@@ -3,6 +3,24 @@ const router = express.Router();
 const { getUserById, updateUserBalance } = require('../models/users');
 
 // Get user balance
+
+router.get('/leaderboard', async (req, res) => {
+  try {
+    const User = require('../models/User');
+    
+    // Get top 3 users sorted by balance
+    const topUsers = await User.find()
+      .sort({ balance: -1 })
+      .limit(3)
+      .select('username balance');
+    
+    res.json({ leaderboard: topUsers });
+  } catch (error) {
+    console.error('Error fetching leaderboard:', error);
+    res.status(500).json({ error: 'Failed to fetch leaderboard' });
+  }
+});
+
 router.get('/:userId', async (req, res) => {
   try {
     const { userId } = req.params;
@@ -40,5 +58,8 @@ router.post('/update', async (req, res) => {
     res.status(500).json({ error: 'Failed to update balance' });
   }
 });
+
+// Get top 3 richest users
+
 
 module.exports = router;
